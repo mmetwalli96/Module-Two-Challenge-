@@ -34,7 +34,36 @@ After running the code, the computational time is significantly reduced from 1.2
 
 
 ## Summary                                                                      
-                                                                      
+---
+
+Advantages of code refactoring:
+
+- Produce a more efficient program that reduces the time consumed to perform a certain task. 
+- Utilizes less resources which enables machines with lower computational capabitlities of running the program more efficiently. 
+
+Disadvantages of code refactoring:
+
+- It is a time consuming process which uses time that can be put on performing other task. 
+- It takes lots of the company resources from staff to computational power to run and test the refatored code. 
+
+Pros of the refactored code:
+
+- It runs much faster than the original code. 
+- it consumes less computational power compared to the original code.
+
+Cons of the refactored code:
+
+- It needs more experience in coding to be able to handle the arrays. 
+
+Pros of the original code:
+
+- it is easier to write as it is shorter and more simpler. 
+
+Cons of the original code:
+
+- it takes more time to run.
+- it consumes more computational resources to do the desired task.
+
                                                                       
                                                                       
                                                                       
