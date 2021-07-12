@@ -10,7 +10,7 @@ Steve was interested to study the stock market to recomend his parents the lowes
 
 Here in the new code, arrays was utilized to eliminate the use of inner for-loop to make the computational time faster and the code more efficient. The below screenshots illustrat the new idea implemented to perfrom the analysis of the stcoks. 
 
-![Capture 88](https://user-images.githubusercontent.com/59425631/124695046-74325c80-deb0-11eb-9e72-06fbc45c16bb.PNG)
+![Capture 88](https://user-images.githubusercontent.com/59425631/125221729-b1bf2d00-e296-11eb-9c9f-fae3eb068c50.PNG)
 
 ![Capture 89](https://user-images.githubusercontent.com/59425631/124695056-77c5e380-deb0-11eb-9d03-6349f68868db.PNG)
 
