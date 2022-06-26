@@ -1,5 +1,3 @@
-# Module Two Challenge Report
-
 ## Overview of The Project 
 ---
 
